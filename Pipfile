@@ -12,6 +12,7 @@ social-auth-app-django = "*"
 django-extensions = "*"
 werkzeug = "*"
 pyopenssl = "*"
+easy-thumbnails = "*"
 
 [requires]
 python_version = "3.8"
