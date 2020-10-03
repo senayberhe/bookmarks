@@ -1,2 +1,6 @@
 Pipfile.lock
-booktime/settings.py
+bookmarks/settings.py
+db.sqlite3
+media/images/2020/09/23
+cert.crt
+cert.key
