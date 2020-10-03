@@ -13,6 +13,7 @@ django-extensions = "*"
 werkzeug = "*"
 pyopenssl = "*"
 easy-thumbnails = "*"
+redis = "*"
 
 [requires]
 python_version = "3.8"
